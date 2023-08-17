@@ -1,0 +1,17 @@
+C:\Users\PAPA\source\repos\ThreeViewDesktop\ThreeViewDesktop\bin\Debug\net7.0-windows\ThreeViewDesktop.exe
+C:\Users\PAPA\source\repos\ThreeViewDesktop\ThreeViewDesktop\bin\Debug\net7.0-windows\ThreeViewDesktop.deps.json
+C:\Users\PAPA\source\repos\ThreeViewDesktop\ThreeViewDesktop\bin\Debug\net7.0-windows\ThreeViewDesktop.runtimeconfig.json
+C:\Users\PAPA\source\repos\ThreeViewDesktop\ThreeViewDesktop\bin\Debug\net7.0-windows\ThreeViewDesktop.dll
+C:\Users\PAPA\source\repos\ThreeViewDesktop\ThreeViewDesktop\bin\Debug\net7.0-windows\ThreeViewDesktop.pdb
+C:\Users\PAPA\source\repos\ThreeViewDesktop\ThreeViewDesktop\obj\Debug\net7.0-windows\ThreeViewDesktop.csproj.AssemblyReference.cache
+C:\Users\PAPA\source\repos\ThreeViewDesktop\ThreeViewDesktop\obj\Debug\net7.0-windows\ThreeViewDesktop.Form1.resources
+C:\Users\PAPA\source\repos\ThreeViewDesktop\ThreeViewDesktop\obj\Debug\net7.0-windows\ThreeViewDesktop.csproj.GenerateResource.cache
+C:\Users\PAPA\source\repos\ThreeViewDesktop\ThreeViewDesktop\obj\Debug\net7.0-windows\ThreeViewDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAPA\source\repos\ThreeViewDesktop\ThreeViewDesktop\obj\Debug\net7.0-windows\ThreeViewDesktop.AssemblyInfoInputs.cache
+C:\Users\PAPA\source\repos\ThreeViewDesktop\ThreeViewDesktop\obj\Debug\net7.0-windows\ThreeViewDesktop.AssemblyInfo.cs
+C:\Users\PAPA\source\repos\ThreeViewDesktop\ThreeViewDesktop\obj\Debug\net7.0-windows\ThreeViewDesktop.csproj.CoreCompileInputs.cache
+C:\Users\PAPA\source\repos\ThreeViewDesktop\ThreeViewDesktop\obj\Debug\net7.0-windows\ThreeViewDesktop.dll
+C:\Users\PAPA\source\repos\ThreeViewDesktop\ThreeViewDesktop\obj\Debug\net7.0-windows\refint\ThreeViewDesktop.dll
+C:\Users\PAPA\source\repos\ThreeViewDesktop\ThreeViewDesktop\obj\Debug\net7.0-windows\ThreeViewDesktop.pdb
+C:\Users\PAPA\source\repos\ThreeViewDesktop\ThreeViewDesktop\obj\Debug\net7.0-windows\ThreeViewDesktop.genruntimeconfig.cache
+C:\Users\PAPA\source\repos\ThreeViewDesktop\ThreeViewDesktop\obj\Debug\net7.0-windows\ref\ThreeViewDesktop.dll
